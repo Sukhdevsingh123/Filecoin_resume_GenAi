@@ -25,6 +25,18 @@ Welcome to **CVault** - an innovative AI-driven resume builder that leverages th
 
 ---
 
+<div align="center">
+  <a href="https://airesume-builder-ni.vercel.app/">
+    <img src="https://github.com/Sukhdevsingh123/Filecoin_resume_GenAi/blob/main/frontends/src/assets/banner.png" alt="Project Screenshot">
+  </a>
+  <a href="https://airesume-builder-ni.vercel.app/">
+    <img src="https://github.com/Sukhdevsingh123/Filecoin_resume_GenAi/blob/main/frontends/src/assets/banner2.png" alt="Project Screenshot">
+  </a>
+  <a href="https://airesume-builder-ni.vercel.app/">
+    <img src="https://github.com/Sukhdevsingh123/Filecoin_resume_GenAi/blob/main/frontends/src/assets/sample_resume.png" alt="Project Screenshot">
+  </a>
+</div>
+
 ## 🎨 Getting Started
 
 ### Prerequisites 📋
